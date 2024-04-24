@@ -63,7 +63,7 @@ this is what the dashboard looked like at the start of the test:  <br/>
 <img src="https://imgur.com/UiEg0jj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
-here are some examples of some of the brut force attacks I logged:  <br/>
+here are some examples of some of the brute force attacks I logged:  <br/>
 <img src="https://imgur.com/wV89jiO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
